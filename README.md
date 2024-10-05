@@ -41,7 +41,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Fako-TZ&show_icons=true&count_private=true&hide_border=true&theme=algolia" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Fako-TZ&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&hide_border=true&theme=algolia" width="400" />
+        <img src="[https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Fako-TZ&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&hide_border=true&theme=algolia](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Fako-TZ&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&hide_border=true&theme=algolia)" width="400" />
       </td>
     </tr>
   </table>
