@@ -25,6 +25,8 @@
   <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" /></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" /></a>
   <a href="https://unity.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40" /></a>
+  <a href="https://www.electronjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" height="40" /></a>
+  <a href="https://tauri.app/" target="_blank"><img src="https://tauri.app/_astro/logo.DCjQDXhk.svg" alt="Tauri" height="40" /></a>
 </div>
 
 <div align="center" style="margin: 20px 0;">
