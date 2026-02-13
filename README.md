@@ -34,19 +34,6 @@
     <img src="https://komarev.com/ghpvc/?username=Fako-TZ&&style=flat-square" alt="Profile views" />
   </a>
 </div>
-
-## 📊 Github Stats
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fako-TZ&show_icons=true&count_private=true&hide_border=true&theme=algolia" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fako-TZ&langs_count=8&layout=compact&hide=html,css&count_private=true&hide_border=true&theme=algolia" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
+ 
 
 <br />
