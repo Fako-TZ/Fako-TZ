@@ -1,9 +1,3 @@
-can u update my readme.md on github to look alot better than this more dark and cool fancy and such
-
-
-
-
-
 <div align="center">
   <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=232426&center=true&vCenter=true&width=1000&height=120&lines=IM+Fako;ALL+THIS+WAS+FOR+NOTHING.">
