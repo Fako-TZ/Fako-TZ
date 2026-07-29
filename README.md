@@ -1,125 +1,45 @@
-<div align="center">
+can u update my readme.md on github to look alot better than this more dark and cool fancy and such
 
-# Fako
 
-```txt
-Desktop Software • Systems Programming • Game Development
-```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+software.;Native+desktop+applications.;Minecraft+tooling+and+clients.;Always+learning+something+new."/>
 
-</div>
-
----
-
-## About
-
-I'm a developer from Norway who enjoys building software that is fast, modern, and actually enjoyable to use.
-
-Most of my work revolves around native desktop applications, game development, developer tools, launchers, and experimenting with low-level programming.
-
-I enjoy turning complicated ideas into polished software with clean UI and solid performance.
-
----
-
-## Projects
-
-### ZeroEngine
-
-Modern Minecraft launcher built with **Tauri**, **Rust**, **React** and **TypeScript**.
-
-Features include
-
-- Microsoft Authentication
-- Fabric / Forge / Quilt support
-- Modrinth integration
-- Shader & Resource Pack manager
-- Modern native UI
-- Fast startup
-
----
-
-### Developer Debugger
-
-Native C++23 debugging application focused on developers.
-
-Features
-
-- Memory inspection
-- Process explorer
-- Module viewer
-- Pattern scanning
-- PE analysis
-- Modern UI
-
----
-
-### Minecraft Client
-
-A custom Fabric client focused on
-
-- Performance
-- Modern HUD
-- Rendering tools
-- Debug utilities
-- Clean animations
-
----
-
-## Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,ts,js"/>
-
-</p>
-
----
-
-## Frameworks & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tauri,react,nodejs,dotnet,mongodb,mysql,git,linux,vscode,visualstudio"/>
-
-</p>
-
----
-
-## GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fako-TZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fako-TZ&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## Currently Working On
-
-- Improving ZeroEngine
-- Native desktop tooling
-- Modern UI systems
-- Graphics programming
-- Minecraft development
-
----
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=Fako-TZ&style=flat-square)
-
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=232426&center=true&vCenter=true&width=1000&height=120&lines=IM+Fako;ALL+THIS+WAS+FOR+NOTHING.">
+  </a>
 </div>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="800">
+  </a>
+</div>
+
+## 🛠️ Languages and Tools
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" /></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>
+  <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" /></a>
+  <a href="https://unity.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40" /></a>
+  <a href="https://www.electronjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" height="40" /></a>
+  <a href="https://tauri.app/" target="_blank"><img src="https://tauri.app/_astro/logo.DCjQDXhk.svg" alt="Tauri" height="40" /></a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/Fako-TZ" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Fako-TZ&&style=flat-square" alt="Profile views" />
+  </a>
+</div>
+ 
+
+<br />
