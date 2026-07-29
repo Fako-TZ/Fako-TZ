@@ -1,39 +1,102 @@
 <div align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=232426&center=true&vCenter=true&width=1000&height=120&lines=IM+Fako;ALL+THIS+WAS+FOR+NOTHING.">
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=Fako;Software+Engineer;Desktop+Applications;Game+Development;Reverse+Engineering;Always+Building."/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="800">
-  </a>
-</div>
+---
 
-## 🛠️ Languages and Tools
+# ⚫ About Me
+
+```cpp
+class Fako
+{
+public:
+
+    string Name = "Fako";
+
+    vector<string> Languages =
+    {
+        "C++",
+        "C#",
+        "Rust",
+        "Python",
+        "TypeScript",
+        "JavaScript"
+    };
+
+    vector<string> Technologies =
+    {
+        "Tauri",
+        "React",
+        "Node.js",
+        ".NET",
+        "MongoDB",
+        "MySQL",
+        "Linux"
+    };
+
+    string CurrentFocus =
+        "Building high-performance desktop software, game tools and modern UI.";
+
+};
+```
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" /></a>
-  <a href="https://www.javascript.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" /></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" /></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>
-  <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" /></a>
-  <a href="https://unity.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40" /></a>
-  <a href="https://www.electronjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" height="40" /></a>
-  <a href="https://tauri.app/" target="_blank"><img src="https://tauri.app/_astro/logo.DCjQDXhk.svg" alt="Tauri" height="40" /></a>
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,ts,js,react,tauri,nodejs,dotnet,mongodb,mysql,linux,git,vscode,visualstudio,github&perline=9"/>
+
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/Fako-TZ" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Fako-TZ&&style=flat-square" alt="Profile views" />
-  </a>
-</div>
- 
+---
 
-<br />
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fako-TZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fako-TZ&theme=github-dark&hide_border=true&background=00000000"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fako-TZ&theme=github-compact&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🚀 Current Interests
+
+```text
+▸ Desktop Applications
+▸ Reverse Engineering
+▸ Game Development
+▸ Modern UI / UX
+▸ Graphics Programming
+▸ Performance Optimization
+```
+
+---
+
+# 🌙 Profile
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Fako-TZ&style=for-the-badge&color=black"/>
+
+</div>
+
+<div align="center">
+
+> *"Code. Learn. Break. Improve. Repeat."*
+
+</div>
